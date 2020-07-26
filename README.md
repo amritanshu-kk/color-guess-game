@@ -25,6 +25,6 @@ The hard mode consits of 6 squares of random colors to guess. This is the defaul
 ## The Supper Hard Mode
 The super hard mode consits of total 9 squares of random colors to guess.
 
-![screenshot 68](https://github.com/amritanshu-kk/color-guess-game/Screenshot 2020-07-26 at 1.28.15 PM.png)
+![screenshot 68](https://github.com/amritanshu-kk/color-guess-game/blob/master/Screenshot%202020-07-26%20at%201.28.15%20PM.png)
 
 <br>
