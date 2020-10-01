@@ -1,6 +1,6 @@
 # color-guess-game
 Just as a passion for coding in javascript i have build this colour guess game.
-### This is a smiple rgb color guessing game. 
+### This is a smiple RGB color guessing game. 
 The Game has is all about picking the right colour from the randomly genrated square's of colors. Try the demo by clicking the above link.
 
 ## The great RGB color guess game has three modes of play. 
